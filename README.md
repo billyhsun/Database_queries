@@ -1,2 +1,2 @@
 # Database_queries
-Course projects from databases course
+Query practices from databases course (CSC343)
