@@ -1,2 +1,2 @@
 # Database_queries
-Query practices from databases course (CSC343)
+SQL queries exercise from databases course (CSC343), using PostgreSQL
